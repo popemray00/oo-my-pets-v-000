@@ -6,4 +6,6 @@ class Cat
     @mood = mood
   end
 
+  def mood
+    @mood
 end
