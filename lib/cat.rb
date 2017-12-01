@@ -3,7 +3,7 @@ class Cat
 
   def initialize(name, mood)
     @name = name
-    self.mood = @mood
+    @mood = self.mood
 
   end
 
